@@ -1,0 +1,17 @@
+# env / secrets
+.env
+.env.* 
+env.sh
+*.apikey
+# python
+__pycache__/
+*.pyc
+.venv/
+# data / artifacts
+movies.db
+index/
+*.faiss
+*.pkl
+# editor
+.vscode/
+.DS_Store
