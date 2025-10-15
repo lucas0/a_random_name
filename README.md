@@ -1,12 +1,12 @@
 # Movies DB query
-Docker version:
+Docker version (recommended):
 
 add the API keys to /docker/.env.docker.sh
 
 `docker compose build` (might take a while)
-
 `docker compose up`
 
+For running natively:
 
 First create your virtual env (optional but recommended):
 
