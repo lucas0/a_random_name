@@ -1,0 +1,76 @@
+{"ts":"2025-10-08 14:29:47,062","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 14:29:48,018","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 14:36:09,750","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 14:36:09,912","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 15:30:27,682","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 15:30:28,911","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 15:52:36,656","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 15:52:37,788","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 15:58:43,441","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 15:58:43,577","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 16:01:18,880","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 16:01:19,072","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 16:03:19,076","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 16:03:19,225","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 16:30:56,952","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 16:30:57,107","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 16:37:04,113","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 16:37:04,364","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 16:47:55,585","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 16:47:56,902","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 17:01:19,195","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 17:01:19,240","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 17:19:27,799","level":"INFO","msg":"{"event":"submit","len":45}"}
+{"ts":"2025-10-08 17:19:28,955","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 17:37:45,166","level":"INFO","msg":"{"event":"submit","len":46}"}
+{"ts":"2025-10-08 17:37:47,300","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 17:43:48,091","level":"INFO","msg":"{"event":"submit","len":46}"}
+{"ts":"2025-10-08 17:43:51,256","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-08 17:56:49,845","level":"INFO","msg":"{"event":"submit","len":46}"}
+{"ts":"2025-10-08 17:57:19,250","level":"INFO","msg":"{"event": "qa", "latency_ms": 29403, "ids": [1233, 795, 468, 1672, 1331, 83, 719, 788], "answer_preview": "In 'Much Ado About Nothing' (1993), Keanu Reeves plays Don John, a scheming character who plots to ruin the wedding of Hero and Claudio. The film is directed by Kenneth Branagh and features Emma Thomp"}"}
+{"ts":"2025-10-08 18:01:23,467","level":"INFO","msg":"{"event":"submit","len":161}"}
+{"ts":"2025-10-08 18:01:56,557","level":"INFO","msg":"{"event": "qa", "latency_ms": 33089, "ids": [944, 1620, 127, 478, 391, 771, 468, 530], "answer_preview": "In Johnny Mnemonic (1995), Keanu Reeves stars as Johnny, a data trafficker who stores sensitive information in his brain. He must remove dangerous data before it kills him while avoiding assassins. Ot"}"}
+{"ts":"2025-10-08 18:09:42,836","level":"INFO","msg":"{"event":"submit","len":87}"}
+{"ts":"2025-10-08 18:10:33,811","level":"INFO","msg":"{"event": "qa", "latency_ms": 50973, "ids": [1331, 468, 944, 1447, 771, 788, 1620, 736], "answer_preview": "In Johnny Mnemonic (1995), Keanu Reeves stars as a data courier who must remove sensitive information from his head before it kills him in a dystopian future. For an overall review of his career, more"}"}
+{"ts":"2025-10-08 18:15:08,294","level":"INFO","msg":"{"event":"submit","len":87}"}
+{"ts":"2025-10-08 18:15:25,638","level":"INFO","msg":"{"event": "qa", "latency_ms": 17342, "ids": [1331, 468, 944, 1447, 771, 788, 1620, 736], "answer_preview": "In 'Johnny Mnemonic' (1995), Keanu Reeves stars as Johnny, a data courier who must survive against assassins while carrying sensitive information in his brain. This role showcases Reeves' ability to t"}"}
+{"ts":"2025-10-08 18:17:18,608","level":"INFO","msg":"{"event":"submit","len":47}"}
+{"ts":"2025-10-08 18:17:31,288","level":"INFO","msg":"{"event": "qa", "latency_ms": 12678, "ids": [1233, 719, 795, 1331, 83, 468, 1672, 212], "answer_preview": "Keanu Reeves played Don John in 'Much Ado About Nothing' (1993) directed by Kenneth Branagh."}"}
+{"ts":"2025-10-08 18:18:00,104","level":"INFO","msg":"{"event":"submit","len":47}"}
+{"ts":"2025-10-08 18:18:23,762","level":"INFO","msg":"{"event": "qa", "latency_ms": 23655, "ids": [1233, 719, 795, 1331, 83, 468, 1672, 212, 788, 342], "answer_preview": "Keanu Reeves played Don John in Kenneth Branagh\u2019s adaptation of 'Much Ado About Nothing' (1993)."}"}
+{"ts":"2025-10-08 18:18:27,077","level":"INFO","msg":"{"event":"submit","len":13}"}
+{"ts":"2025-10-08 18:18:33,999","level":"INFO","msg":"{"event": "qa", "latency_ms": 6919, "ids": [1233, 795, 1504, 719, 392, 1005, 1372, 776, 649, 468], "answer_preview": "I don't know."}"}
+{"ts":"2025-10-08 18:19:03,516","level":"INFO","msg":"{"event":"submit","len":12}"}
+{"ts":"2025-10-08 18:19:08,609","level":"INFO","msg":"{"event": "qa", "latency_ms": 5091, "ids": [1233, 795, 1504, 392, 1372, 1005, 719, 468, 736, 1202], "answer_preview": "I don't know."}"}
+{"ts":"2025-10-08 18:19:26,309","level":"INFO","msg":"{"event":"submit","len":34}"}
+{"ts":"2025-10-08 18:19:42,425","level":"INFO","msg":"{"event": "qa", "latency_ms": 16114, "ids": [83, 788, 735, 212, 771, 944, 719, 1021, 1295, 1132], "answer_preview": "It seems there's a typo in your question; you likely meant \"Keanu Reeves.\" Based on the provided context, here are some movies starring Keanu Reeves:\n\n1. **Johnny Mnemonic (1995)** - In this dystopian"}"}
+{"ts":"2025-10-08 18:19:58,829","level":"INFO","msg":"{"event":"submit","len":34}"}
+{"ts":"2025-10-08 18:20:21,532","level":"INFO","msg":"{"event": "qa", "latency_ms": 22700, "ids": [83, 771, 719, 1132, 391, 944, 1068, 1021, 568, 553], "answer_preview": "Keanu Reeves stars in several notable films:\n1. **Legends of the Fall (1994)** - As Tristan Ludlow, he portrays a son bound by loyalty and tested by war.\n2. **Speed (1994)** - Reeves plays Jack Traven"}"}
+{"ts":"2025-10-08 18:21:14,396","level":"INFO","msg":"{"event":"submit","len":34}"}
+{"ts":"2025-10-08 18:21:22,505","level":"INFO","msg":"{"event":"submit","len":34}"}
+{"ts":"2025-10-08 18:22:12,921","level":"INFO","msg":"{"event": "qa", "latency_ms": 58524, "ids": [83, 771, 719, 1132, 391, 944, 1068, 1021, 568, 553], "answer_preview": "Based on the information provided, here are some of Keanu Reeves' notable movie appearances:\n\n1. **Point Break (1991)** - While not explicitly mentioned in the details you've shared, this is one of Ke"}"}
+{"ts":"2025-10-08 18:23:10,288","level":"INFO","msg":"{"event": "qa", "latency_ms": 107782, "ids": [1068, 719, 468, 771, 944, 530, 568, 1021, 553, 391], "answer_preview": "Keanu Reeves has had a diverse and successful career spanning over three decades. Here are some key highlights:\n\n1. **Early Career**:\n   - Reeves began his acting career in the late 1980s, making his "}"}
+{"ts":"2025-10-08 18:24:27,020","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-08 18:24:40,554","level":"INFO","msg":"{"event": "qa", "latency_ms": 13532, "ids": [912, 391, 350, 235, 334, 914, 355, 243, 1295, 682], "answer_preview": "I don't have information about specific action movies released in 2020 based on the provided context. The titles and details given are for films from different years, primarily from the late '90s."}"}
+{"ts":"2025-10-08 18:57:28,526","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-08 18:59:42,553","level":"INFO","msg":"{"event": "qa", "latency_ms": 134026, "ids": [2982, 4763, 5586, 4803, 4573, 3623, 391, 3512, 912, 772], "answer_preview": "No action movies from the year 2020 are listed in the provided context."}"}
+{"ts":"2025-10-08 19:02:56,486","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-08 19:03:19,006","level":"INFO","msg":"{"event": "qa", "latency_ms": 22518, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "1. U Turn (1997) - A man evades vengeful bookies and gets entangled in a dangerous love triangle in an Arizona desert town.\n2. Last Action Hero (1993) - A young boy is transported into his favorite ac"}"}
+{"ts":"2025-10-08 21:42:26,113","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-08 21:44:57,697","level":"INFO","msg":"{"event": "qa", "latency_ms": 151582, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "1. **U Turn (1997)** - A desperate man evades vengeful bookies and gets entangled in a dangerous love triangle in an Arizona town.\n2. **Last Action Hero (1993)** - A young boy is transported into the "}"}
+{"ts":"2025-10-09 09:44:35,758","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 09:47:01,040","level":"INFO","msg":"{"event": "qa", "latency_ms": 145278, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite movie hero's world, teaming up with him to stop an evil villain. U.S. Marshalls (1998) - Not enough information avail"}"}
+{"ts":"2025-10-09 10:14:26,903","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 10:16:52,025","level":"INFO","msg":"{"event": "qa", "latency_ms": 145120, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite movie, teaming up with the hero to fight evil. U.S. Marshalls (1998) - Not enough information available for detailed "}"}
+{"ts":"2025-10-09 10:31:15,116","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 10:33:34,363","level":"INFO","msg":"{"event": "qa", "latency_ms": 139245, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite action movie, teaming up with the hero to stop a villain. U.S. Marshalls (1998) - Though details are sparse, this fil"}"}
+{"ts":"2025-10-09 12:18:51,744","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 12:21:25,579","level":"INFO","msg":"{"event": "qa", "latency_ms": 153827, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite movie, teaming up with the hero to save the world. U.S. Marshalls (1998) - Not enough information for a recommendatio"}"}
+{"ts":"2025-10-09 13:12:44,616","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 13:15:33,429","level":"INFO","msg":"{"event": "qa", "latency_ms": 168811, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite movie, teaming up with the hero to fight evil. U.S. Marshalls (1998) - Not enough information available for this titl"}"}
+{"ts":"2025-10-09 15:21:07,445","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 15:23:49,765","level":"INFO","msg":"{"event": "qa", "latency_ms": 162309, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite movie, teaming up with the hero to fight evil. U.S. Marshalls (1998) - Not enough information available for detailed "}"}
+{"ts":"2025-10-09 15:47:54,569","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 15:47:57,993","level":"INFO","msg":"{"event": "qa_error", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/qa"}"}
+{"ts":"2025-10-09 15:52:37,683","level":"INFO","msg":"{"event":"submit","len":33}"}
+{"ts":"2025-10-09 15:55:01,955","level":"INFO","msg":"{"event": "qa", "latency_ms": 144268, "ids": [391, 912, 4879, 4690, 3623, 830, 4573, 2982, 4271, 2577], "answer_preview": "Last Action Hero (1993) - A young boy finds a magic ticket and enters his favorite movie, teaming up with the hero to thwart a villain. | Menace II Society (1993) - A street hustler tries to escape th"}"}

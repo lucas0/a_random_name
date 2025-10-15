@@ -1,0 +1,22 @@
+FROM python:3.11-slim
+
+# system deps
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential git curl ca-certificates sqlite3 && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# install python deps once (cached until requirements change)
+COPY movies_v2/requirements.txt /app/requirements.txt
+RUN pip install --upgrade pip \
+ && pip install -r /app/requirements.txt \
+ && pip install --index-url https://download.pytorch.org/whl/cpu torch==2.5.1
+
+# copy app code & entrypoint
+COPY movies_v2 /app/movies_v2
+COPY docker/entrypoint-api.sh /usr/local/bin/entrypoint-api.sh
+RUN chmod +x /usr/local/bin/entrypoint-api.sh && sed -i 's/\r$//' /usr/local/bin/entrypoint-api.sh
+
+EXPOSE 8000
+ENTRYPOINT ["/usr/local/bin/entrypoint-api.sh"]

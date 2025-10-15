@@ -1,6 +1,5 @@
 # env / secrets
 .env
-.env.* 
 env.sh
 *.apikey
 # python
@@ -8,8 +7,13 @@ __pycache__/
 *.pyc
 .venv/
 # data / artifacts
-movies.db
-index/
+movies_v1/datawrangling/movies.db
+movies_v2/datawrangling/movies.db
+movies_v1/datawrangling/index/
+movies_v2/datawrangling/index/
+docker/moviebot-data/index/movies.faiss
+docker/moviebot-data/movies.db
+*.db
 *.faiss
 *.pkl
 # editor

@@ -1,0 +1,33 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.api
+    env_file: ./.env.docker.sh
+    environment:
+      DB_PATH_V2: /data/movies.db
+      INDEX_V2_DIR: /data/index
+      FAISS_PATH_V2: /data/index/movies.faiss
+    volumes:
+      - ./moviebot-data:/data
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+      start_period: "180m"
+
+  ui:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.ui
+    env_file: ./.env.docker.sh
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
