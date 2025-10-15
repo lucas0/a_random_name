@@ -1,4 +1,12 @@
 # Movies DB query
+Docker version:
+
+add the API keys to /docker/.env.docker.sh
+
+`docker compose build` (might take a while)
+`docker compose up`
+
+
 First create your virtual env (optional but recommended):
 
 python -m venv .venv
